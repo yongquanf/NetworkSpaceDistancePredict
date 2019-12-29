@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/quanyongf/soft/HPM/lib/asyncj.jar"/>
+	<classpathentry kind="lib" path="/Users/quanyongf/soft/HPM/lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/quanyongf/soft/HPM/lib/jpcap.jar"/>
+	<classpathentry kind="lib" path="/Users/quanyongf/soft/HPM/lib/util-prp.jar"/>
+	<classpathentry kind="lib" path="/Users/quanyongf/soft/HPM/lib/xmlrpc-2.0-a1-dev.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
