@@ -5,73 +5,40 @@ Reference
 
 If you find this work useful for your research, please consider citing the following papers:
 
-@article{DBLP:journals/ton/FuB17,
-  author    = {Yongquan Fu and
-               Ernst Biersack},
-  title     = {{MCR:} Structure-Aware Overlay-Based Latency-Optimal Greedy Relay
-               Search},
-  journal   = {{IEEE/ACM} Trans. Netw.},
-  volume    = {25},
-  number    = {5},
-  pages     = {3016--3029},
-  year      = {2017},
-  url       = {https://doi.org/10.1109/TNET.2017.2715331},
-  doi       = {10.1109/TNET.2017.2715331},
-  timestamp = {Wed, 18 Apr 2018 12:59:15 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/ton/FuB17},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-
-@inproceedings{DBLP:conf/ccgrid/FuWP15,
-  author    = {Yongquan Fu and
-               Yijie Wang and
-               Xiaoqiang Pei},
-  title     = {Towards Latency-Optimal Distributed Relay Selection},
-  booktitle = {15th {IEEE/ACM} International Symposium on Cluster, Cloud and Grid
-               Computing, CCGrid 2015, Shenzhen, China, May 4-7, 2015},
-  pages     = {433--442},
-  year      = {2015},
-  crossref  = {DBLP:conf/ccgrid/2015},
-  url       = {https://doi.org/10.1109/CCGrid.2015.18},
-  doi       = {10.1109/CCGrid.2015.18},
-  timestamp = {Wed, 16 Oct 2019 14:14:53 +0200},
-  biburl    = {https://dblp.org/rec/bib/conf/ccgrid/FuWP15},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-
-@article{DBLP:journals/fgcs/FuWB13a,
+@article{DBLP:journals/fgcs/FuWB13,
   author    = {Yongquan Fu and
                Yijie Wang and
                Ernst Biersack},
-  title     = {HybridNN: An accurate and scalable network location service based
-               on the inframetric model},
+  title     = {A general scalable and accurate decentralized level monitoring method
+               for large-scale dynamic service provision in hybrid clouds},
   journal   = {Future Generation Comp. Syst.},
   volume    = {29},
-  number    = {6},
-  pages     = {1485--1504},
+  number    = {5},
+  pages     = {1235--1253},
   year      = {2013},
-  url       = {https://doi.org/10.1016/j.future.2012.12.002},
-  doi       = {10.1016/j.future.2012.12.002},
-  timestamp = {Fri, 30 Nov 2018 13:19:55 +0100},
-  biburl    = {https://dblp.org/rec/bib/journals/fgcs/FuWB13a},
+  url       = {https://doi.org/10.1016/j.future.2012.11.001},
+  doi       = {10.1016/j.future.2012.11.001},
+  timestamp = {Fri, 30 Nov 2018 13:19:54 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/fgcs/FuWB13},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
-@article{DBLP:journals/chinaf/FuW13,
+@inproceedings{DBLP:conf/icpads/FuW09,
   author    = {Yongquan Fu and
                Yijie Wang},
-  title     = {{DKNNS:} Scalable and accurate distributed {K} nearest neighbor search
-               for latency-sensitive applications},
-  journal   = {{SCIENCE} {CHINA} Information Sciences},
-  volume    = {56},
-  number    = {3},
-  pages     = {1--17},
-  year      = {2013},
-  url       = {https://doi.org/10.1007/s11432-011-4449-7},
-  doi       = {10.1007/s11432-011-4449-7},
-  timestamp = {Fri, 30 Nov 2018 13:24:22 +0100},
-  biburl    = {https://dblp.org/rec/bib/journals/chinaf/FuW13},
+  title     = {iRank: Supporting Proximity Ranking for Peer-to-Peer Applications},
+  booktitle = {15th {IEEE} International Conference on Parallel and Distributed Systems,
+               {ICPADS} 2009, Shenzhen, China, December 8-11, 2009},
+  pages     = {836--841},
+  year      = {2009},
+  crossref  = {DBLP:conf/icpads/2009},
+  url       = {https://doi.org/10.1109/ICPADS.2009.19},
+  doi       = {10.1109/ICPADS.2009.19},
+  timestamp = {Wed, 16 Oct 2019 14:14:56 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icpads/FuW09},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+
+
 
 
